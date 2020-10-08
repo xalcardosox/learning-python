@@ -1,0 +1,5 @@
+b= int(input())
+a= int(input())
+PROD = int(a*b)
+
+print("PROD =",PROD)
